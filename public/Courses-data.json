@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "title": "Introduction to Computer Science",
+        "description": "This course introduces the fundamental concepts of computer science, including programming, data structures, and algorithms.",
+        "instructor": "John Doe",
+        "image": "https://i.imgur.com/image.jpg",
+        "duration": "6 weeks",
+        "category": "Computer Science",
+        "price": 199,
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "title": "Web Development with HTML, CSS, and JavaScript",
+        "description": "This course teaches you how to build websites and web applications using HTML, CSS, and JavaScript.",
+        "instructor": "Jane Doe",
+        "image": "https://i.imgur.com/image2.jpg",
+        "duration": "8 weeks",
+        "category": "Web Development",
+        "price": 299,
+        "rating": 4.7
+    },
+    {
+        "id": 3,
+        "title": "Data Science with Python",
+        "description": "This course teaches you how to collect, clean, and analyze data using Python.",
+        "instructor": "Peter Jones",
+        "image": "https://i.imgur.com/image3.jpg",
+        "duration": "10 weeks",
+        "category": "Data Science",
+        "price": 399,
+        "rating": 4.8
+    },
+    {
+        "id": 4,
+        "title": "Machine Learning with TensorFlow",
+        "description": "This course teaches you how to build machine learning models using TensorFlow.",
+        "instructor": "Sarah Li",
+        "image": "https://i.imgur.com/image4.jpg",
+        "duration": "12 weeks",
+        "category": "Machine Learning",
+        "price": 499,
+        "rating": 5.0
+    },
+    {
+        "id": 5,
+        "title": "Digital Marketing for Beginners",
+        "description": "This course teaches you the basics of digital marketing, including SEO, PPC, and social media marketing.",
+        "instructor": "David Miller",
+        "image": "https://i.imgur.com/image5.jpg",
+        "duration": "4 weeks",
+        "category": "Marketing",
+        "price": 99,
+        "rating": 4.2
+    }
+]
